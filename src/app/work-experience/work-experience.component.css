@@ -1,0 +1,30 @@
+h1 {
+    margin: 0;
+}
+
+h3 {
+    margin-top: 6px;
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+ul {
+    margin-top: 4px;
+    margin-bottom: 2px;
+    width: 75%;
+}
+
+.with-date {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.blue {
+    font-weight: bold;
+    color: #6645eb;
+}

@@ -1,0 +1,43 @@
+.center-header {
+    width: 100%;
+    text-align: center;
+}
+
+.contact-information {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 41px;
+    color: #2B3467;
+}
+
+h3 {
+    margin-top: 5px;
+    margin-bottom: 12px;
+    color: #5645eb;
+}
+
+p {
+    margin-top: 2px;
+    margin-bottom: 0;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.img-profile {
+    border-radius: 50%;
+    width: 150px;
+    border: 5px solid;
+    border-color: #2B3467;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
